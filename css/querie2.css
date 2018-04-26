@@ -27,7 +27,7 @@
 
 @media screen and (max-width:768px){
     body{
-        background-color: yellow;
+        background-color: #008B8B;
     }
     .container{
         max-width: 768px;
@@ -100,7 +100,7 @@
 
 @media screen and (min-width: 768px)and (max-width: 992px){
     body{
-        background-color: purple;
+        background-color: #191970;
     }
     .container{
         max-width: 768px;
@@ -174,7 +174,7 @@
 
 @media screen and (min-width: 992px)and (max-width: 1390px){
     body{
-        background-color: aqua;
+        background-color: #008080;
     }
     .container{
         max-width: 1200px;
@@ -248,7 +248,7 @@
 
 @media screen and (min-width: 1039px){
     body{
-        background-color: chocolate;
+        background-color: #808000;
     }
     .container{
         min-width: 1039px;

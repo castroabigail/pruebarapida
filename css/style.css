@@ -1,15 +1,19 @@
-#imagenes{
+.imagenes{
 	width: 100%;
+	margin-top: 5%;
 }
-	
 .parrafos{
-	color: blue;
+	color: white;
+	margin-top: 5%;
 }
 footer{
 	margin-top: 5%;
 	background-color: black;
 	color:white;
+	text-align: center;
 }
 header{
-	background-color: aqua;
+	background-color: #778899;
+	text-align: center;
+	color: white;
 }
